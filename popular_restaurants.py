@@ -1,4 +1,3 @@
-[shruthim@rcg-linux-ts1 ~]$ cat yelp_nightlife.py
 from pyspark import SparkConf, SparkContext, SQLContext
 import yelp
 from pyspark.sql.types import StructType, StructField, StringType, FloatType, IntegerType
